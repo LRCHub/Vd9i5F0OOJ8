@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Whatever",
+  "base_artist": "Oasis",
+  "createdAt": "2025-12-21T06:34:20.015282Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Whatever Comes First",
+      "artist": "Sons of the Desert",
+      "has_synced": true,
+      "path": "select/01_Whatever_Comes_First_Sons_of_the_Desert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Whatever Comes First (Album Version)",
+      "artist": "Sons Of The Desert",
+      "has_synced": true,
+      "path": "select/02_Whatever_Comes_First_(Album_Version)_Sons_Of_The_Desert.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Whatever Happened to Old Fashioned Love",
+      "artist": "B.J. Thomas",
+      "has_synced": true,
+      "path": "select/03_Whatever_Happened_to_Old_Fashioned_Love_B.J._Thomas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Whatever She's Got",
+      "artist": "David Nail",
+      "has_synced": true,
+      "path": "select/04_Whatever_She's_Got_David_Nail.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Whatever Man",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/05_Whatever_Man_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Whatever Man Skit",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/06_Whatever_Man_Skit_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Whatever Man (Skit)",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/07_Whatever_Man_(Skit)_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Whatever You Want",
+      "artist": "Mr. Porter & Swifty McVay",
+      "has_synced": true,
+      "path": "select/08_Whatever_You_Want_Mr._Porter_&_Swifty_McVay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Whatever It Takes",
+      "artist": "Tom Morello: the Nightwatchman feat. Tom Morello",
+      "has_synced": false,
+      "path": "select/09_Whatever_It_Takes_Tom_Morello__the_Nightwatchman_feat._Tom_Morello.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Whatever It Takes",
+      "artist": "Tom Morello: The Nightwatchman",
+      "has_synced": false,
+      "path": "select/10_Whatever_It_Takes_Tom_Morello__The_Nightwatchman.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Whatever",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/11_Whatever_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Whatever",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/12_Whatever_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Whatever You've Got",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/13_Whatever_You've_Got_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Whatever It Is, I Just Can't Stop",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/14_Whatever_It_Is,_I_Just_Can't_Stop_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Whatever U Like (a cappella)",
+      "artist": "Nicole Scherzinger feat. T.I.",
+      "has_synced": false,
+      "path": "select/15_Whatever_U_Like_(a_cappella)_Nicole_Scherzinger_feat._T.I..txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Whatever U Like",
+      "artist": "Nicole Scherzinger feat. T.I.",
+      "has_synced": false,
+      "path": "select/16_Whatever_U_Like_Nicole_Scherzinger_feat._T.I..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Whatever",
+      "artist": "OASIS",
+      "has_synced": false,
+      "path": "select/pl_01_Whatever_OASIS.txt"
+    }
+  ]
+}

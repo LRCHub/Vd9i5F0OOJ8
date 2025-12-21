@@ -1,0 +1,53 @@
+# Oasis – Whatever
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.28] I'm free to be whatever I
+[00:26.98] Whatever I choose and I'll sing the blues if I want
+[00:32.60] I'm free to say whatever I
+[00:37.53] Whatever I like if it's wrong or right it's alright
+[01:03.03] 
+[00:44.58] Always seems to me
+[00:48.17] You only see what people want you to see
+[00:54.56] How long's it gonna be
+[00:58.82] Before we get on the bus and cause no fuss
+[01:01.54] Get a grip on yourself, it don't cost much
+[01:22.54] 
+[01:04.13] Free to be whatever you
+[01:09.48] Whatever you say if it comes my way it's alright
+[01:15.02] You're free to be wherever you
+[01:20.16] Wherever you please, you can shoot the breeze if you want
+[01:48.66] 
+[01:26.59] It always seems to me
+[01:30.54] You only see what people want you to see
+[01:37.09] How long's it gonna be
+[01:41.16] Before we get on the bus and cause no fuss
+[01:43.77] Get a grip on yourself, it don't cost much
+[02:04.77] 
+[01:46.32] I'm free to be whatever I
+[01:51.59] Whatever I choose and I'll sing the blues if I want
+[02:17.09] 
+[02:08.47] Here in my mind
+[02:13.79] You know you might find
+[02:19.22] Something that you
+[02:24.10] You thought you once knew
+[02:27.03] But now it's all gone
+[02:37.53] 
+[02:29.90] And you know it's no fun
+[02:32.16] Yeah I know it's no fun
+[02:34.42] Oh, I know it's no fun
+[02:45.42] 
+[02:51.44] I'm free to be whatever I
+[02:57.25] Whatever I choose and I'll sing the blues if I want
+[03:02.20] I'm free to be whatever I
+[03:07.21] Whatever I choose and I'll sing the blues if I want
+[03:32.71] 
+[03:13.94] Whatever you do
+[03:16.40] Whatever you say
+[03:18.45] Yeah, I know it's alright
+[03:30.95] 
+[03:24.13] Whatever you do
+[03:26.78] Whatever you say
+[03:29.11] Yeah, I know it's alright
+```
